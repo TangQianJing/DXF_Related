@@ -1,9 +1,6 @@
+#v1.0 by Tang
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
-"""
 import ezdxf
 from ezdxf.math import Vec2
 
