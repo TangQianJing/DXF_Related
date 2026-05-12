@@ -1,3 +1,4 @@
+#v1.0 byTang
 # -*- coding: utf-8 -*-
 """
 DXF → tiled binary raster (multicore)
